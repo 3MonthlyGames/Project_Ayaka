@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Project_Ayaka.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\kimtw\Desktop\Projects\Project_Ayaka\.idea\.idea.Project_Ayaka\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
